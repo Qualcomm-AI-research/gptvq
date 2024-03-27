@@ -1,0 +1,8 @@
+SentencePiece
+datasets==2.14.6
+numpy==1.24.1
+scikit_learn==1.3.0
+setuptools==45.2.0
+torch==2.0.1
+tqdm==4.66.1
+transformers==4.37.2
