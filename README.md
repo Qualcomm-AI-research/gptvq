@@ -79,10 +79,10 @@ lm_eval --model hf \
 If you found this work useful, please consider citing:
 
 ```
-@article{frantar-gptq,
-  title={{GPTQ}: Accurate Post-training Compression for Generative Pretrained Transformers}, 
-  author={Elias Frantar and Saleh Ashkboos and Torsten Hoefler and Dan Alistarh},
-  year={2022},
-  journal={arXiv preprint arXiv:2210.17323}
+@article{vanbaalen-gptvq,
+  title={GPTVQ: The Blessing of Dimensionality in LLM Quantization}, 
+  author={Mart van Baalen and Andrey Kuzmin and Markus Nagel and Peter Couperus and Cedric Bastoul and Eric Mahurin and Tijmen Blankevoort and Paul Whatmough},
+  year={2024},
+  journal={arXiv preprint arXiv:2402.15319}
 }
 ```
